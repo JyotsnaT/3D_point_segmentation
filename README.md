@@ -6,10 +6,6 @@ The dataset used is Oakland 3-D Point Cloud Dataset - CVPR 2009 subset available
 
 The key algorithm used is finding K nearest neighbours using KD Tree. 
 
-Input : oakland_part2_ak.xyz_label_conf
-Output : 
-            
-
 
 To execute the code
 - In the src directory, type 'make' in the command line to compile.
